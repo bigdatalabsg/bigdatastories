@@ -3,9 +3,6 @@
 
 Big Data Ecosystem Integration Stories on Apache and Other OSS.
 
-anaconda3
-elastic-cluster
-
 ===============HADOOP===============================
 hadoop-3.0.0
 
@@ -37,7 +34,6 @@ grafana-8.4.5
 superset
 
 ===============WORKFLOW=============================
-
 Airflow
 
 ===============PYTHON===============================
