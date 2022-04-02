@@ -4,21 +4,26 @@
 Big Data Ecosystem Integration Stories on Apache and Other OSS.
 
 ===============HADOOP===============================
+
 hadoop-3.0.0
 
 ===============WAREHOUSE============================
+
 hive-3.1.2
 
 ===============SQL/ANALYTICAL ENGINES ==============
+
 spark-3.1.1
 presto-0.260.1
 trino-367
 
 ===============STREAMING============================
+
 kafka-2.8.0
 confluent
 
 ===============STREAMING PROCESSING=================
+
 flink-1.14.4
 
 ===============FULL TEXT SERACH=====================
